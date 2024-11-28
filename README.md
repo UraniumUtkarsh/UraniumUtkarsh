@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZmdWV1dGN3dWp0amxqMjQ0bHl3OW82bHRobWQzeW51eG8ydHRiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UraniumUtkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="UraniumUtkarsh" /> </p>
 
-- 📧 Drop me a ping **mailto:utkarshpandey_202210101180005@srmu.ac.in**
+- 📧 Drop me a ping **<a href="mailto:utkarshpandey_202210101180005@srmu.ac.in">utkarshpandey_202210101180005@srmu.ac.in</a>**
 
 - 🧑‍🏭 My personality type is **INTJ (Architect)**
 
